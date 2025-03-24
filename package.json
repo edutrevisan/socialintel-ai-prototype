@@ -1,1 +1,1 @@
-{"name":"socialintel-ai-prototype","version":"1.0.0","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"react":"^18.0.0","react-dom":"^18.0.0"},"devDependencies":{"@vitejs/plugin-react":"^4.3.4","vite":"^4.0.0"}}
+{"name":"socialintel-ai-prototype","version":"1.0.0","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"react":"^18.0.0","react-dom":"^18.0.0"},"devDependencies":{"@vitejs/plugin-react":"^4.3.4","autoprefixer":"^10.4.21","tailwindcss":"^4.0.15","vite":"^4.0.0"}}
